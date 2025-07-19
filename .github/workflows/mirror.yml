@@ -1,5 +1,5 @@
 # .github/workflows/mirror.yml
-name: 
+name: 同步MetaCubeX/ClashMetaForAndroid
 
 on:
   schedule:
