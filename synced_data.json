@@ -1,0 +1,1568 @@
+{
+  "releases": {
+    "102490949": {
+      "tag_name": "v2.8.0",
+      "fully_synced_at": "2025-07-19 15:47:16.189876"
+    },
+    "102576103": {
+      "tag_name": "v2.8.2",
+      "fully_synced_at": "2025-07-19 15:47:35.961931"
+    },
+    "103024607": {
+      "tag_name": "v2.8.3",
+      "fully_synced_at": "2025-07-19 15:47:55.154647"
+    },
+    "103758858": {
+      "tag_name": "v2.8.4",
+      "fully_synced_at": "2025-07-19 15:48:14.013979"
+    },
+    "106471109": {
+      "tag_name": "v2.8.5",
+      "fully_synced_at": "2025-07-19 15:48:33.160206"
+    },
+    "108341446": {
+      "tag_name": "v2.8.6",
+      "fully_synced_at": "2025-07-19 15:48:53.275713"
+    },
+    "109664849": {
+      "tag_name": "v2.8.7",
+      "fully_synced_at": "2025-07-19 15:49:11.916889"
+    },
+    "112361296": {
+      "tag_name": "v2.8.8",
+      "fully_synced_at": "2025-07-19 15:49:31.098549"
+    },
+    "119536031": {
+      "tag_name": "v2.8.9",
+      "fully_synced_at": "2025-07-19 15:49:50.015061"
+    },
+    "127689274": {
+      "tag_name": "v2.9.0",
+      "fully_synced_at": "2025-07-19 15:50:10.094665"
+    },
+    "137525561": {
+      "tag_name": "v2.10.0",
+      "fully_synced_at": "2025-07-19 15:50:29.718024"
+    },
+    "140473068": {
+      "tag_name": "v2.10.1",
+      "fully_synced_at": "2025-07-19 15:50:49.980493"
+    },
+    "167506131": {
+      "tag_name": "v2.10.2",
+      "fully_synced_at": "2025-07-19 15:51:10.460669"
+    },
+    "170297299": {
+      "tag_name": "v2.10.3",
+      "fully_synced_at": "2025-07-19 15:51:29.965544"
+    },
+    "173004675": {
+      "tag_name": "v2.10.4",
+      "fully_synced_at": "2025-07-19 15:51:50.021996"
+    },
+    "174686848": {
+      "tag_name": "v2.11.0",
+      "fully_synced_at": "2025-07-19 15:52:10.068392"
+    },
+    "177515698": {
+      "tag_name": "v2.11.1",
+      "fully_synced_at": "2025-07-19 15:52:29.252939"
+    },
+    "183250010": {
+      "tag_name": "v2.11.2",
+      "fully_synced_at": "2025-07-19 15:52:49.346849"
+    },
+    "192011646": {
+      "tag_name": "v2.11.4",
+      "fully_synced_at": "2025-07-19 15:53:09.511760"
+    },
+    "192804113": {
+      "tag_name": "v2.11.5",
+      "fully_synced_at": "2025-07-19 15:53:29.890750"
+    },
+    "199439126": {
+      "tag_name": "v2.11.6",
+      "fully_synced_at": "2025-07-19 15:53:50.230854"
+    },
+    "203263965": {
+      "tag_name": "v2.11.7",
+      "fully_synced_at": "2025-07-19 15:54:10.086563"
+    },
+    "209642532": {
+      "tag_name": "v2.11.8",
+      "fully_synced_at": "2025-07-19 15:54:31.445360"
+    },
+    "213704544": {
+      "tag_name": "v2.11.9",
+      "fully_synced_at": "2025-07-19 15:54:53.000303"
+    },
+    "217761459": {
+      "tag_name": "2.11.10",
+      "fully_synced_at": "2025-07-19 15:55:13.504506"
+    },
+    "218147879": {
+      "tag_name": "v2.11.11",
+      "fully_synced_at": "2025-07-19 15:55:34.948903"
+    },
+    "220231931": {
+      "tag_name": "v2.11.12",
+      "fully_synced_at": "2025-07-19 15:55:55.793958"
+    },
+    "222208472": {
+      "tag_name": "v2.11.13",
+      "fully_synced_at": "2025-07-19 15:56:16.294911"
+    },
+    "227671062": {
+      "tag_name": "v2.11.14",
+      "fully_synced_at": "2025-07-19 15:56:36.109801"
+    },
+    "228583702": {
+      "tag_name": "Prerelease-alpha",
+      "fully_synced_at": "2025-07-19 15:56:56.533321"
+    }
+  },
+  "assets": {
+    "102490949": {
+      "cmfa-2.8.0-meta-arm64-v8a-release.apk_15254871": {
+        "name": "cmfa-2.8.0-meta-arm64-v8a-release.apk",
+        "size": 15254871,
+        "updated_at": "2025-07-19T15:47:05+00:00",
+        "synced_at": "2025-07-19 15:47:05.640593"
+      },
+      "cmfa-2.8.0-meta-armeabi-v7a-release.apk_15470970": {
+        "name": "cmfa-2.8.0-meta-armeabi-v7a-release.apk",
+        "size": 15470970,
+        "updated_at": "2025-07-19T15:47:07+00:00",
+        "synced_at": "2025-07-19 15:47:07.819042"
+      },
+      "cmfa-2.8.0-meta-universal-release.apk_53937224": {
+        "name": "cmfa-2.8.0-meta-universal-release.apk",
+        "size": 53937224,
+        "updated_at": "2025-07-19T15:47:10+00:00",
+        "synced_at": "2025-07-19 15:47:10.740732"
+      },
+      "cmfa-2.8.0-meta-x86-release.apk_16338705": {
+        "name": "cmfa-2.8.0-meta-x86-release.apk",
+        "size": 16338705,
+        "updated_at": "2025-07-19T15:47:12+00:00",
+        "synced_at": "2025-07-19 15:47:12.801293"
+      },
+      "cmfa-2.8.0-meta-x86_64-release.apk_15850503": {
+        "name": "cmfa-2.8.0-meta-x86_64-release.apk",
+        "size": 15850503,
+        "updated_at": "2025-07-19T15:47:14+00:00",
+        "synced_at": "2025-07-19 15:47:14.783665"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:47:16+00:00",
+        "synced_at": "2025-07-19 15:47:16.189423"
+      }
+    },
+    "102576103": {
+      "cmfa-2.8.2-meta-arm64-v8a-release.apk_15254634": {
+        "name": "cmfa-2.8.2-meta-arm64-v8a-release.apk",
+        "size": 15254634,
+        "updated_at": "2025-07-19T15:47:24+00:00",
+        "synced_at": "2025-07-19 15:47:25.074072"
+      },
+      "cmfa-2.8.2-meta-armeabi-v7a-release.apk_15473664": {
+        "name": "cmfa-2.8.2-meta-armeabi-v7a-release.apk",
+        "size": 15473664,
+        "updated_at": "2025-07-19T15:47:26+00:00",
+        "synced_at": "2025-07-19 15:47:27.073996"
+      },
+      "cmfa-2.8.2-meta-universal-release.apk_53943369": {
+        "name": "cmfa-2.8.2-meta-universal-release.apk",
+        "size": 53943369,
+        "updated_at": "2025-07-19T15:47:30+00:00",
+        "synced_at": "2025-07-19 15:47:30.579029"
+      },
+      "cmfa-2.8.2-meta-x86-release.apk_16340957": {
+        "name": "cmfa-2.8.2-meta-x86-release.apk",
+        "size": 16340957,
+        "updated_at": "2025-07-19T15:47:32+00:00",
+        "synced_at": "2025-07-19 15:47:32.640479"
+      },
+      "cmfa-2.8.2-meta-x86_64-release.apk_15851914": {
+        "name": "cmfa-2.8.2-meta-x86_64-release.apk",
+        "size": 15851914,
+        "updated_at": "2025-07-19T15:47:34+00:00",
+        "synced_at": "2025-07-19 15:47:34.629356"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:47:35+00:00",
+        "synced_at": "2025-07-19 15:47:35.961381"
+      }
+    },
+    "103024607": {
+      "cmfa-2.8.3-meta-arm64-v8a-release.apk_15275975": {
+        "name": "cmfa-2.8.3-meta-arm64-v8a-release.apk",
+        "size": 15275975,
+        "updated_at": "2025-07-19T15:47:44+00:00",
+        "synced_at": "2025-07-19 15:47:44.378839"
+      },
+      "cmfa-2.8.3-meta-armeabi-v7a-release.apk_15492630": {
+        "name": "cmfa-2.8.3-meta-armeabi-v7a-release.apk",
+        "size": 15492630,
+        "updated_at": "2025-07-19T15:47:46+00:00",
+        "synced_at": "2025-07-19 15:47:46.426522"
+      },
+      "cmfa-2.8.3-meta-universal-release.apk_54027273": {
+        "name": "cmfa-2.8.3-meta-universal-release.apk",
+        "size": 54027273,
+        "updated_at": "2025-07-19T15:47:49+00:00",
+        "synced_at": "2025-07-19 15:47:49.756466"
+      },
+      "cmfa-2.8.3-meta-x86-release.apk_16360771": {
+        "name": "cmfa-2.8.3-meta-x86-release.apk",
+        "size": 16360771,
+        "updated_at": "2025-07-19T15:47:51+00:00",
+        "synced_at": "2025-07-19 15:47:51.802895"
+      },
+      "cmfa-2.8.3-meta-x86_64-release.apk_15875760": {
+        "name": "cmfa-2.8.3-meta-x86_64-release.apk",
+        "size": 15875760,
+        "updated_at": "2025-07-19T15:47:53+00:00",
+        "synced_at": "2025-07-19 15:47:53.810149"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:47:55+00:00",
+        "synced_at": "2025-07-19 15:47:55.154033"
+      }
+    },
+    "103758858": {
+      "cmfa-2.8.4-meta-arm64-v8a-release.apk_15298313": {
+        "name": "cmfa-2.8.4-meta-arm64-v8a-release.apk",
+        "size": 15298313,
+        "updated_at": "2025-07-19T15:48:03+00:00",
+        "synced_at": "2025-07-19 15:48:03.529548"
+      },
+      "cmfa-2.8.4-meta-armeabi-v7a-release.apk_15516544": {
+        "name": "cmfa-2.8.4-meta-armeabi-v7a-release.apk",
+        "size": 15516544,
+        "updated_at": "2025-07-19T15:48:05+00:00",
+        "synced_at": "2025-07-19 15:48:05.454040"
+      },
+      "cmfa-2.8.4-meta-universal-release.apk_54127278": {
+        "name": "cmfa-2.8.4-meta-universal-release.apk",
+        "size": 54127278,
+        "updated_at": "2025-07-19T15:48:08+00:00",
+        "synced_at": "2025-07-19 15:48:08.609781"
+      },
+      "cmfa-2.8.4-meta-x86-release.apk_16389430": {
+        "name": "cmfa-2.8.4-meta-x86-release.apk",
+        "size": 16389430,
+        "updated_at": "2025-07-19T15:48:10+00:00",
+        "synced_at": "2025-07-19 15:48:10.646829"
+      },
+      "cmfa-2.8.4-meta-x86_64-release.apk_15900861": {
+        "name": "cmfa-2.8.4-meta-x86_64-release.apk",
+        "size": 15900861,
+        "updated_at": "2025-07-19T15:48:12+00:00",
+        "synced_at": "2025-07-19 15:48:12.649598"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:48:13+00:00",
+        "synced_at": "2025-07-19 15:48:14.013319"
+      }
+    },
+    "106471109": {
+      "cmfa-2.8.5-meta-arm64-v8a-release.apk_15323963": {
+        "name": "cmfa-2.8.5-meta-arm64-v8a-release.apk",
+        "size": 15323963,
+        "updated_at": "2025-07-19T15:48:22+00:00",
+        "synced_at": "2025-07-19 15:48:22.430850"
+      },
+      "cmfa-2.8.5-meta-armeabi-v7a-release.apk_15540463": {
+        "name": "cmfa-2.8.5-meta-armeabi-v7a-release.apk",
+        "size": 15540463,
+        "updated_at": "2025-07-19T15:48:24+00:00",
+        "synced_at": "2025-07-19 15:48:24.694671"
+      },
+      "cmfa-2.8.5-meta-universal-release.apk_54224018": {
+        "name": "cmfa-2.8.5-meta-universal-release.apk",
+        "size": 54224018,
+        "updated_at": "2025-07-19T15:48:27+00:00",
+        "synced_at": "2025-07-19 15:48:27.798472"
+      },
+      "cmfa-2.8.5-meta-x86-release.apk_16410605": {
+        "name": "cmfa-2.8.5-meta-x86-release.apk",
+        "size": 16410605,
+        "updated_at": "2025-07-19T15:48:29+00:00",
+        "synced_at": "2025-07-19 15:48:29.808733"
+      },
+      "cmfa-2.8.5-meta-x86_64-release.apk_15926861": {
+        "name": "cmfa-2.8.5-meta-x86_64-release.apk",
+        "size": 15926861,
+        "updated_at": "2025-07-19T15:48:31+00:00",
+        "synced_at": "2025-07-19 15:48:31.731860"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:48:33+00:00",
+        "synced_at": "2025-07-19 15:48:33.159472"
+      }
+    },
+    "108341446": {
+      "cmfa-2.8.6-meta-arm64-v8a-release.apk_15415672": {
+        "name": "cmfa-2.8.6-meta-arm64-v8a-release.apk",
+        "size": 15415672,
+        "updated_at": "2025-07-19T15:48:42+00:00",
+        "synced_at": "2025-07-19 15:48:42.283601"
+      },
+      "cmfa-2.8.6-meta-armeabi-v7a-release.apk_15632688": {
+        "name": "cmfa-2.8.6-meta-armeabi-v7a-release.apk",
+        "size": 15632688,
+        "updated_at": "2025-07-19T15:48:44+00:00",
+        "synced_at": "2025-07-19 15:48:44.218633"
+      },
+      "cmfa-2.8.6-meta-universal-release.apk_54607350": {
+        "name": "cmfa-2.8.6-meta-universal-release.apk",
+        "size": 54607350,
+        "updated_at": "2025-07-19T15:48:47+00:00",
+        "synced_at": "2025-07-19 15:48:47.731890"
+      },
+      "cmfa-2.8.6-meta-x86-release.apk_16512081": {
+        "name": "cmfa-2.8.6-meta-x86-release.apk",
+        "size": 16512081,
+        "updated_at": "2025-07-19T15:48:49+00:00",
+        "synced_at": "2025-07-19 15:48:49.728528"
+      },
+      "cmfa-2.8.6-meta-x86_64-release.apk_16024776": {
+        "name": "cmfa-2.8.6-meta-x86_64-release.apk",
+        "size": 16024776,
+        "updated_at": "2025-07-19T15:48:51+00:00",
+        "synced_at": "2025-07-19 15:48:51.868394"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:48:53+00:00",
+        "synced_at": "2025-07-19 15:48:53.274909"
+      }
+    },
+    "109664849": {
+      "cmfa-2.8.7-meta-arm64-v8a-release.apk_15442343": {
+        "name": "cmfa-2.8.7-meta-arm64-v8a-release.apk",
+        "size": 15442343,
+        "updated_at": "2025-07-19T15:49:01+00:00",
+        "synced_at": "2025-07-19 15:49:01.792726"
+      },
+      "cmfa-2.8.7-meta-armeabi-v7a-release.apk_15657940": {
+        "name": "cmfa-2.8.7-meta-armeabi-v7a-release.apk",
+        "size": 15657940,
+        "updated_at": "2025-07-19T15:49:03+00:00",
+        "synced_at": "2025-07-19 15:49:03.685640"
+      },
+      "cmfa-2.8.7-meta-universal-release.apk_54711132": {
+        "name": "cmfa-2.8.7-meta-universal-release.apk",
+        "size": 54711132,
+        "updated_at": "2025-07-19T15:49:06+00:00",
+        "synced_at": "2025-07-19 15:49:06.388101"
+      },
+      "cmfa-2.8.7-meta-x86-release.apk_16539308": {
+        "name": "cmfa-2.8.7-meta-x86-release.apk",
+        "size": 16539308,
+        "updated_at": "2025-07-19T15:49:08+00:00",
+        "synced_at": "2025-07-19 15:49:08.460858"
+      },
+      "cmfa-2.8.7-meta-x86_64-release.apk_16049407": {
+        "name": "cmfa-2.8.7-meta-x86_64-release.apk",
+        "size": 16049407,
+        "updated_at": "2025-07-19T15:49:10+00:00",
+        "synced_at": "2025-07-19 15:49:10.514399"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:49:11+00:00",
+        "synced_at": "2025-07-19 15:49:11.915995"
+      }
+    },
+    "112361296": {
+      "cmfa-2.8.8-meta-arm64-v8a-release.apk_15457311": {
+        "name": "cmfa-2.8.8-meta-arm64-v8a-release.apk",
+        "size": 15457311,
+        "updated_at": "2025-07-19T15:49:20+00:00",
+        "synced_at": "2025-07-19 15:49:20.519349"
+      },
+      "cmfa-2.8.8-meta-armeabi-v7a-release.apk_15675413": {
+        "name": "cmfa-2.8.8-meta-armeabi-v7a-release.apk",
+        "size": 15675413,
+        "updated_at": "2025-07-19T15:49:22+00:00",
+        "synced_at": "2025-07-19 15:49:22.483043"
+      },
+      "cmfa-2.8.8-meta-universal-release.apk_54780505": {
+        "name": "cmfa-2.8.8-meta-universal-release.apk",
+        "size": 54780505,
+        "updated_at": "2025-07-19T15:49:25+00:00",
+        "synced_at": "2025-07-19 15:49:25.656054"
+      },
+      "cmfa-2.8.8-meta-x86-release.apk_16555605": {
+        "name": "cmfa-2.8.8-meta-x86-release.apk",
+        "size": 16555605,
+        "updated_at": "2025-07-19T15:49:27+00:00",
+        "synced_at": "2025-07-19 15:49:27.728080"
+      },
+      "cmfa-2.8.8-meta-x86_64-release.apk_16070035": {
+        "name": "cmfa-2.8.8-meta-x86_64-release.apk",
+        "size": 16070035,
+        "updated_at": "2025-07-19T15:49:29+00:00",
+        "synced_at": "2025-07-19 15:49:29.696212"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:49:30+00:00",
+        "synced_at": "2025-07-19 15:49:31.097601"
+      }
+    },
+    "119536031": {
+      "cmfa-2.8.9-meta-arm64-v8a-release.apk_15552234": {
+        "name": "cmfa-2.8.9-meta-arm64-v8a-release.apk",
+        "size": 15552234,
+        "updated_at": "2025-07-19T15:49:39+00:00",
+        "synced_at": "2025-07-19 15:49:39.839681"
+      },
+      "cmfa-2.8.9-meta-armeabi-v7a-release.apk_15749852": {
+        "name": "cmfa-2.8.9-meta-armeabi-v7a-release.apk",
+        "size": 15749852,
+        "updated_at": "2025-07-19T15:49:41+00:00",
+        "synced_at": "2025-07-19 15:49:41.794979"
+      },
+      "cmfa-2.8.9-meta-universal-release.apk_55067662": {
+        "name": "cmfa-2.8.9-meta-universal-release.apk",
+        "size": 55067662,
+        "updated_at": "2025-07-19T15:49:44+00:00",
+        "synced_at": "2025-07-19 15:49:44.632976"
+      },
+      "cmfa-2.8.9-meta-x86-release.apk_16632056": {
+        "name": "cmfa-2.8.9-meta-x86-release.apk",
+        "size": 16632056,
+        "updated_at": "2025-07-19T15:49:46+00:00",
+        "synced_at": "2025-07-19 15:49:46.740449"
+      },
+      "cmfa-2.8.9-meta-x86_64-release.apk_16151962": {
+        "name": "cmfa-2.8.9-meta-x86_64-release.apk",
+        "size": 16151962,
+        "updated_at": "2025-07-19T15:49:48+00:00",
+        "synced_at": "2025-07-19 15:49:48.606957"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:49:49+00:00",
+        "synced_at": "2025-07-19 15:49:50.014045"
+      }
+    },
+    "127689274": {
+      "cmfa-2.9.0-meta-arm64-v8a-release.apk_19857540": {
+        "name": "cmfa-2.9.0-meta-arm64-v8a-release.apk",
+        "size": 19857540,
+        "updated_at": "2025-07-19T15:49:58+00:00",
+        "synced_at": "2025-07-19 15:49:58.743497"
+      },
+      "cmfa-2.9.0-meta-armeabi-v7a-release.apk_20077564": {
+        "name": "cmfa-2.9.0-meta-armeabi-v7a-release.apk",
+        "size": 20077564,
+        "updated_at": "2025-07-19T15:50:00+00:00",
+        "synced_at": "2025-07-19 15:50:00.674333"
+      },
+      "cmfa-2.9.0-meta-universal-release.apk_60895919": {
+        "name": "cmfa-2.9.0-meta-universal-release.apk",
+        "size": 60895919,
+        "updated_at": "2025-07-19T15:50:04+00:00",
+        "synced_at": "2025-07-19 15:50:04.434903"
+      },
+      "cmfa-2.9.0-meta-x86-release.apk_20983853": {
+        "name": "cmfa-2.9.0-meta-x86-release.apk",
+        "size": 20983853,
+        "updated_at": "2025-07-19T15:50:06+00:00",
+        "synced_at": "2025-07-19 15:50:06.612922"
+      },
+      "cmfa-2.9.0-meta-x86_64-release.apk_20481880": {
+        "name": "cmfa-2.9.0-meta-x86_64-release.apk",
+        "size": 20481880,
+        "updated_at": "2025-07-19T15:50:08+00:00",
+        "synced_at": "2025-07-19 15:50:08.727775"
+      },
+      "output-metadata.json_1612": {
+        "name": "output-metadata.json",
+        "size": 1612,
+        "updated_at": "2025-07-19T15:50:09+00:00",
+        "synced_at": "2025-07-19 15:50:10.093597"
+      }
+    },
+    "137525561": {
+      "cmfa-2.10.0-meta-arm64-v8a-release.apk_20381024": {
+        "name": "cmfa-2.10.0-meta-arm64-v8a-release.apk",
+        "size": 20381024,
+        "updated_at": "2025-07-19T15:50:18+00:00",
+        "synced_at": "2025-07-19 15:50:18.674590"
+      },
+      "cmfa-2.10.0-meta-armeabi-v7a-release.apk_20648677": {
+        "name": "cmfa-2.10.0-meta-armeabi-v7a-release.apk",
+        "size": 20648677,
+        "updated_at": "2025-07-19T15:50:20+00:00",
+        "synced_at": "2025-07-19 15:50:20.828774"
+      },
+      "cmfa-2.10.0-meta-universal-release.apk_63016892": {
+        "name": "cmfa-2.10.0-meta-universal-release.apk",
+        "size": 63016892,
+        "updated_at": "2025-07-19T15:50:23+00:00",
+        "synced_at": "2025-07-19 15:50:23.988010"
+      },
+      "cmfa-2.10.0-meta-x86-release.apk_21598336": {
+        "name": "cmfa-2.10.0-meta-x86-release.apk",
+        "size": 21598336,
+        "updated_at": "2025-07-19T15:50:26+00:00",
+        "synced_at": "2025-07-19 15:50:26.192603"
+      },
+      "cmfa-2.10.0-meta-x86_64-release.apk_21060639": {
+        "name": "cmfa-2.10.0-meta-x86_64-release.apk",
+        "size": 21060639,
+        "updated_at": "2025-07-19T15:50:28+00:00",
+        "synced_at": "2025-07-19 15:50:28.341195"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:50:29+00:00",
+        "synced_at": "2025-07-19 15:50:29.716904"
+      }
+    },
+    "140473068": {
+      "cmfa-2.10.1-meta-arm64-v8a-release.apk_20398056": {
+        "name": "cmfa-2.10.1-meta-arm64-v8a-release.apk",
+        "size": 20398056,
+        "updated_at": "2025-07-19T15:50:38+00:00",
+        "synced_at": "2025-07-19 15:50:38.893809"
+      },
+      "cmfa-2.10.1-meta-armeabi-v7a-release.apk_20668815": {
+        "name": "cmfa-2.10.1-meta-armeabi-v7a-release.apk",
+        "size": 20668815,
+        "updated_at": "2025-07-19T15:50:41+00:00",
+        "synced_at": "2025-07-19 15:50:41.273516"
+      },
+      "cmfa-2.10.1-meta-universal-release.apk_63100821": {
+        "name": "cmfa-2.10.1-meta-universal-release.apk",
+        "size": 63100821,
+        "updated_at": "2025-07-19T15:50:44+00:00",
+        "synced_at": "2025-07-19 15:50:44.504438"
+      },
+      "cmfa-2.10.1-meta-x86-release.apk_21620563": {
+        "name": "cmfa-2.10.1-meta-x86-release.apk",
+        "size": 21620563,
+        "updated_at": "2025-07-19T15:50:46+00:00",
+        "synced_at": "2025-07-19 15:50:46.549123"
+      },
+      "cmfa-2.10.1-meta-x86_64-release.apk_21078254": {
+        "name": "cmfa-2.10.1-meta-x86_64-release.apk",
+        "size": 21078254,
+        "updated_at": "2025-07-19T15:50:48+00:00",
+        "synced_at": "2025-07-19 15:50:48.632099"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:50:49+00:00",
+        "synced_at": "2025-07-19 15:50:49.979310"
+      }
+    },
+    "167506131": {
+      "cmfa-2.10.2-meta-arm64-v8a-release.apk_20018526": {
+        "name": "cmfa-2.10.2-meta-arm64-v8a-release.apk",
+        "size": 20018526,
+        "updated_at": "2025-07-19T15:50:58+00:00",
+        "synced_at": "2025-07-19 15:50:58.993294"
+      },
+      "cmfa-2.10.2-meta-armeabi-v7a-release.apk_20082185": {
+        "name": "cmfa-2.10.2-meta-armeabi-v7a-release.apk",
+        "size": 20082185,
+        "updated_at": "2025-07-19T15:51:01+00:00",
+        "synced_at": "2025-07-19 15:51:01.166723"
+      },
+      "cmfa-2.10.2-meta-universal-release.apk_59925227": {
+        "name": "cmfa-2.10.2-meta-universal-release.apk",
+        "size": 59925227,
+        "updated_at": "2025-07-19T15:51:04+00:00",
+        "synced_at": "2025-07-19 15:51:05.048285"
+      },
+      "cmfa-2.10.2-meta-x86-release.apk_20838138": {
+        "name": "cmfa-2.10.2-meta-x86-release.apk",
+        "size": 20838138,
+        "updated_at": "2025-07-19T15:51:06+00:00",
+        "synced_at": "2025-07-19 15:51:07.000156"
+      },
+      "cmfa-2.10.2-meta-x86_64-release.apk_20637520": {
+        "name": "cmfa-2.10.2-meta-x86_64-release.apk",
+        "size": 20637520,
+        "updated_at": "2025-07-19T15:51:08+00:00",
+        "synced_at": "2025-07-19 15:51:09.010059"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:51:10+00:00",
+        "synced_at": "2025-07-19 15:51:10.459416"
+      }
+    },
+    "170297299": {
+      "cmfa-2.10.3-meta-arm64-v8a-release.apk_21180831": {
+        "name": "cmfa-2.10.3-meta-arm64-v8a-release.apk",
+        "size": 21180831,
+        "updated_at": "2025-07-19T15:51:19+00:00",
+        "synced_at": "2025-07-19 15:51:19.342125"
+      },
+      "cmfa-2.10.3-meta-armeabi-v7a-release.apk_21218863": {
+        "name": "cmfa-2.10.3-meta-armeabi-v7a-release.apk",
+        "size": 21218863,
+        "updated_at": "2025-07-19T15:51:21+00:00",
+        "synced_at": "2025-07-19 15:51:21.331385"
+      },
+      "cmfa-2.10.3-meta-universal-release.apk_63215422": {
+        "name": "cmfa-2.10.3-meta-universal-release.apk",
+        "size": 63215422,
+        "updated_at": "2025-07-19T15:51:24+00:00",
+        "synced_at": "2025-07-19 15:51:24.491212"
+      },
+      "cmfa-2.10.3-meta-x86-release.apk_22030417": {
+        "name": "cmfa-2.10.3-meta-x86-release.apk",
+        "size": 22030417,
+        "updated_at": "2025-07-19T15:51:26+00:00",
+        "synced_at": "2025-07-19 15:51:26.514483"
+      },
+      "cmfa-2.10.3-meta-x86_64-release.apk_21817615": {
+        "name": "cmfa-2.10.3-meta-x86_64-release.apk",
+        "size": 21817615,
+        "updated_at": "2025-07-19T15:51:28+00:00",
+        "synced_at": "2025-07-19 15:51:28.580794"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:51:29+00:00",
+        "synced_at": "2025-07-19 15:51:29.964275"
+      }
+    },
+    "173004675": {
+      "cmfa-2.10.4-meta-arm64-v8a-release.apk_21403057": {
+        "name": "cmfa-2.10.4-meta-arm64-v8a-release.apk",
+        "size": 21403057,
+        "updated_at": "2025-07-19T15:51:38+00:00",
+        "synced_at": "2025-07-19 15:51:38.724426"
+      },
+      "cmfa-2.10.4-meta-armeabi-v7a-release.apk_21459498": {
+        "name": "cmfa-2.10.4-meta-armeabi-v7a-release.apk",
+        "size": 21459498,
+        "updated_at": "2025-07-19T15:51:40+00:00",
+        "synced_at": "2025-07-19 15:51:40.925301"
+      },
+      "cmfa-2.10.4-meta-universal-release.apk_64152726": {
+        "name": "cmfa-2.10.4-meta-universal-release.apk",
+        "size": 64152726,
+        "updated_at": "2025-07-19T15:51:44+00:00",
+        "synced_at": "2025-07-19 15:51:44.325677"
+      },
+      "cmfa-2.10.4-meta-x86-release.apk_22290140": {
+        "name": "cmfa-2.10.4-meta-x86-release.apk",
+        "size": 22290140,
+        "updated_at": "2025-07-19T15:51:46+00:00",
+        "synced_at": "2025-07-19 15:51:46.554012"
+      },
+      "cmfa-2.10.4-meta-x86_64-release.apk_22058899": {
+        "name": "cmfa-2.10.4-meta-x86_64-release.apk",
+        "size": 22058899,
+        "updated_at": "2025-07-19T15:51:48+00:00",
+        "synced_at": "2025-07-19 15:51:48.652647"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:51:49+00:00",
+        "synced_at": "2025-07-19 15:51:50.020653"
+      }
+    },
+    "174686848": {
+      "cmfa-2.11.0-meta-arm64-v8a-release.apk_22785863": {
+        "name": "cmfa-2.11.0-meta-arm64-v8a-release.apk",
+        "size": 22785863,
+        "updated_at": "2025-07-19T15:51:59+00:00",
+        "synced_at": "2025-07-19 15:51:59.144869"
+      },
+      "cmfa-2.11.0-meta-armeabi-v7a-release.apk_22844107": {
+        "name": "cmfa-2.11.0-meta-armeabi-v7a-release.apk",
+        "size": 22844107,
+        "updated_at": "2025-07-19T15:52:01+00:00",
+        "synced_at": "2025-07-19 15:52:01.187937"
+      },
+      "cmfa-2.11.0-meta-universal-release.apk_55585557": {
+        "name": "cmfa-2.11.0-meta-universal-release.apk",
+        "size": 55585557,
+        "updated_at": "2025-07-19T15:52:04+00:00",
+        "synced_at": "2025-07-19 15:52:04.192449"
+      },
+      "cmfa-2.11.0-meta-x86-release.apk_23678676": {
+        "name": "cmfa-2.11.0-meta-x86-release.apk",
+        "size": 23678676,
+        "updated_at": "2025-07-19T15:52:06+00:00",
+        "synced_at": "2025-07-19 15:52:06.346707"
+      },
+      "cmfa-2.11.0-meta-x86_64-release.apk_23444030": {
+        "name": "cmfa-2.11.0-meta-x86_64-release.apk",
+        "size": 23444030,
+        "updated_at": "2025-07-19T15:52:08+00:00",
+        "synced_at": "2025-07-19 15:52:08.547651"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:52:09+00:00",
+        "synced_at": "2025-07-19 15:52:10.066910"
+      }
+    },
+    "177515698": {
+      "cmfa-2.11.1-meta-arm64-v8a-release.apk_23107919": {
+        "name": "cmfa-2.11.1-meta-arm64-v8a-release.apk",
+        "size": 23107919,
+        "updated_at": "2025-07-19T15:52:18+00:00",
+        "synced_at": "2025-07-19 15:52:18.921983"
+      },
+      "cmfa-2.11.1-meta-armeabi-v7a-release.apk_23168727": {
+        "name": "cmfa-2.11.1-meta-armeabi-v7a-release.apk",
+        "size": 23168727,
+        "updated_at": "2025-07-19T15:52:20+00:00",
+        "synced_at": "2025-07-19 15:52:21.042674"
+      },
+      "cmfa-2.11.1-meta-universal-release.apk_56446506": {
+        "name": "cmfa-2.11.1-meta-universal-release.apk",
+        "size": 56446506,
+        "updated_at": "2025-07-19T15:52:23+00:00",
+        "synced_at": "2025-07-19 15:52:23.760090"
+      },
+      "cmfa-2.11.1-meta-x86-release.apk_24015868": {
+        "name": "cmfa-2.11.1-meta-x86-release.apk",
+        "size": 24015868,
+        "updated_at": "2025-07-19T15:52:25+00:00",
+        "synced_at": "2025-07-19 15:52:25.876226"
+      },
+      "cmfa-2.11.1-meta-x86_64-release.apk_23778821": {
+        "name": "cmfa-2.11.1-meta-x86_64-release.apk",
+        "size": 23778821,
+        "updated_at": "2025-07-19T15:52:27+00:00",
+        "synced_at": "2025-07-19 15:52:27.924161"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:52:29+00:00",
+        "synced_at": "2025-07-19 15:52:29.251458"
+      }
+    },
+    "183250010": {
+      "cmfa-2.11.2-meta-arm64-v8a-release.apk_23253391": {
+        "name": "cmfa-2.11.2-meta-arm64-v8a-release.apk",
+        "size": 23253391,
+        "updated_at": "2025-07-19T15:52:38+00:00",
+        "synced_at": "2025-07-19 15:52:38.299332"
+      },
+      "cmfa-2.11.2-meta-armeabi-v7a-release.apk_23314836": {
+        "name": "cmfa-2.11.2-meta-armeabi-v7a-release.apk",
+        "size": 23314836,
+        "updated_at": "2025-07-19T15:52:40+00:00",
+        "synced_at": "2025-07-19 15:52:40.498160"
+      },
+      "cmfa-2.11.2-meta-universal-release.apk_56612308": {
+        "name": "cmfa-2.11.2-meta-universal-release.apk",
+        "size": 56612308,
+        "updated_at": "2025-07-19T15:52:43+00:00",
+        "synced_at": "2025-07-19 15:52:43.143085"
+      },
+      "cmfa-2.11.2-meta-x86-release.apk_24159166": {
+        "name": "cmfa-2.11.2-meta-x86-release.apk",
+        "size": 24159166,
+        "updated_at": "2025-07-19T15:52:45+00:00",
+        "synced_at": "2025-07-19 15:52:45.458886"
+      },
+      "cmfa-2.11.2-meta-x86_64-release.apk_23924215": {
+        "name": "cmfa-2.11.2-meta-x86_64-release.apk",
+        "size": 23924215,
+        "updated_at": "2025-07-19T15:52:47+00:00",
+        "synced_at": "2025-07-19 15:52:47.917664"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:52:49+00:00",
+        "synced_at": "2025-07-19 15:52:49.345311"
+      }
+    },
+    "192011646": {
+      "cmfa-2.11.4-meta-arm64-v8a-release.apk_23700767": {
+        "name": "cmfa-2.11.4-meta-arm64-v8a-release.apk",
+        "size": 23700767,
+        "updated_at": "2025-07-19T15:52:58+00:00",
+        "synced_at": "2025-07-19 15:52:58.479943"
+      },
+      "cmfa-2.11.4-meta-armeabi-v7a-release.apk_23771343": {
+        "name": "cmfa-2.11.4-meta-armeabi-v7a-release.apk",
+        "size": 23771343,
+        "updated_at": "2025-07-19T15:53:00+00:00",
+        "synced_at": "2025-07-19 15:53:00.809898"
+      },
+      "cmfa-2.11.4-meta-universal-release.apk_58145023": {
+        "name": "cmfa-2.11.4-meta-universal-release.apk",
+        "size": 58145023,
+        "updated_at": "2025-07-19T15:53:03+00:00",
+        "synced_at": "2025-07-19 15:53:03.632755"
+      },
+      "cmfa-2.11.4-meta-x86-release.apk_24635577": {
+        "name": "cmfa-2.11.4-meta-x86-release.apk",
+        "size": 24635577,
+        "updated_at": "2025-07-19T15:53:05+00:00",
+        "synced_at": "2025-07-19 15:53:05.678344"
+      },
+      "cmfa-2.11.4-meta-x86_64-release.apk_24379765": {
+        "name": "cmfa-2.11.4-meta-x86_64-release.apk",
+        "size": 24379765,
+        "updated_at": "2025-07-19T15:53:07+00:00",
+        "synced_at": "2025-07-19 15:53:08.060092"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:53:09+00:00",
+        "synced_at": "2025-07-19 15:53:09.510144"
+      }
+    },
+    "192804113": {
+      "cmfa-2.11.5-meta-arm64-v8a-release.apk_23701998": {
+        "name": "cmfa-2.11.5-meta-arm64-v8a-release.apk",
+        "size": 23701998,
+        "updated_at": "2025-07-19T15:53:18+00:00",
+        "synced_at": "2025-07-19 15:53:18.546663"
+      },
+      "cmfa-2.11.5-meta-armeabi-v7a-release.apk_23771397": {
+        "name": "cmfa-2.11.5-meta-armeabi-v7a-release.apk",
+        "size": 23771397,
+        "updated_at": "2025-07-19T15:53:20+00:00",
+        "synced_at": "2025-07-19 15:53:20.773219"
+      },
+      "cmfa-2.11.5-meta-universal-release.apk_58156333": {
+        "name": "cmfa-2.11.5-meta-universal-release.apk",
+        "size": 58156333,
+        "updated_at": "2025-07-19T15:53:23+00:00",
+        "synced_at": "2025-07-19 15:53:24.079815"
+      },
+      "cmfa-2.11.5-meta-x86-release.apk_24640568": {
+        "name": "cmfa-2.11.5-meta-x86-release.apk",
+        "size": 24640568,
+        "updated_at": "2025-07-19T15:53:26+00:00",
+        "synced_at": "2025-07-19 15:53:26.192594"
+      },
+      "cmfa-2.11.5-meta-x86_64-release.apk_24380476": {
+        "name": "cmfa-2.11.5-meta-x86_64-release.apk",
+        "size": 24380476,
+        "updated_at": "2025-07-19T15:53:28+00:00",
+        "synced_at": "2025-07-19 15:53:28.491122"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-07-19T15:53:29+00:00",
+        "synced_at": "2025-07-19 15:53:29.889061"
+      }
+    },
+    "199439126": {
+      "cmfa-2.11.6-meta-arm64-v8a-release.apk_23407685": {
+        "name": "cmfa-2.11.6-meta-arm64-v8a-release.apk",
+        "size": 23407685,
+        "updated_at": "2025-07-19T15:53:38+00:00",
+        "synced_at": "2025-07-19 15:53:38.874587"
+      },
+      "cmfa-2.11.6-meta-armeabi-v7a-release.apk_23491834": {
+        "name": "cmfa-2.11.6-meta-armeabi-v7a-release.apk",
+        "size": 23491834,
+        "updated_at": "2025-07-19T15:53:40+00:00",
+        "synced_at": "2025-07-19 15:53:40.955506"
+      },
+      "cmfa-2.11.6-meta-universal-release.apk_58563323": {
+        "name": "cmfa-2.11.6-meta-universal-release.apk",
+        "size": 58563323,
+        "updated_at": "2025-07-19T15:53:44+00:00",
+        "synced_at": "2025-07-19 15:53:44.391548"
+      },
+      "cmfa-2.11.6-meta-x86-release.apk_24378100": {
+        "name": "cmfa-2.11.6-meta-x86-release.apk",
+        "size": 24378100,
+        "updated_at": "2025-07-19T15:53:46+00:00",
+        "synced_at": "2025-07-19 15:53:46.508682"
+      },
+      "cmfa-2.11.6-meta-x86_64-release.apk_24109012": {
+        "name": "cmfa-2.11.6-meta-x86_64-release.apk",
+        "size": 24109012,
+        "updated_at": "2025-07-19T15:53:48+00:00",
+        "synced_at": "2025-07-19 15:53:48.864960"
+      },
+      "output-metadata.json_2532": {
+        "name": "output-metadata.json",
+        "size": 2532,
+        "updated_at": "2025-07-19T15:53:50+00:00",
+        "synced_at": "2025-07-19 15:53:50.229092"
+      }
+    },
+    "203263965": {
+      "cmfa-2.11.7-meta-arm64-v8a-release.apk_23709463": {
+        "name": "cmfa-2.11.7-meta-arm64-v8a-release.apk",
+        "size": 23709463,
+        "updated_at": "2025-07-19T15:53:58+00:00",
+        "synced_at": "2025-07-19 15:53:58.833215"
+      },
+      "cmfa-2.11.7-meta-armeabi-v7a-release.apk_23890708": {
+        "name": "cmfa-2.11.7-meta-armeabi-v7a-release.apk",
+        "size": 23890708,
+        "updated_at": "2025-07-19T15:54:01+00:00",
+        "synced_at": "2025-07-19 15:54:01.176605"
+      },
+      "cmfa-2.11.7-meta-universal-release.apk_60071103": {
+        "name": "cmfa-2.11.7-meta-universal-release.apk",
+        "size": 60071103,
+        "updated_at": "2025-07-19T15:54:04+00:00",
+        "synced_at": "2025-07-19 15:54:04.175098"
+      },
+      "cmfa-2.11.7-meta-x86-release.apk_24820115": {
+        "name": "cmfa-2.11.7-meta-x86-release.apk",
+        "size": 24820115,
+        "updated_at": "2025-07-19T15:54:06+00:00",
+        "synced_at": "2025-07-19 15:54:06.397295"
+      },
+      "cmfa-2.11.7-meta-x86_64-release.apk_24462243": {
+        "name": "cmfa-2.11.7-meta-x86_64-release.apk",
+        "size": 24462243,
+        "updated_at": "2025-07-19T15:54:08+00:00",
+        "synced_at": "2025-07-19 15:54:08.703333"
+      },
+      "output-metadata.json_2532": {
+        "name": "output-metadata.json",
+        "size": 2532,
+        "updated_at": "2025-07-19T15:54:09+00:00",
+        "synced_at": "2025-07-19 15:54:10.084778"
+      }
+    },
+    "209642532": {
+      "cmfa-2.11.8-meta-arm64-v8a-release.apk_24868707": {
+        "name": "cmfa-2.11.8-meta-arm64-v8a-release.apk",
+        "size": 24868707,
+        "updated_at": "2025-07-19T15:54:19+00:00",
+        "synced_at": "2025-07-19 15:54:19.376688"
+      },
+      "cmfa-2.11.8-meta-armeabi-v7a-release.apk_25048782": {
+        "name": "cmfa-2.11.8-meta-armeabi-v7a-release.apk",
+        "size": 25048782,
+        "updated_at": "2025-07-19T15:54:21+00:00",
+        "synced_at": "2025-07-19 15:54:22.087142"
+      },
+      "cmfa-2.11.8-meta-universal-release.apk_61513784": {
+        "name": "cmfa-2.11.8-meta-universal-release.apk",
+        "size": 61513784,
+        "updated_at": "2025-07-19T15:54:25+00:00",
+        "synced_at": "2025-07-19 15:54:25.538766"
+      },
+      "cmfa-2.11.8-meta-x86-release.apk_25985763": {
+        "name": "cmfa-2.11.8-meta-x86-release.apk",
+        "size": 25985763,
+        "updated_at": "2025-07-19T15:54:27+00:00",
+        "synced_at": "2025-07-19 15:54:27.906074"
+      },
+      "cmfa-2.11.8-meta-x86_64-release.apk_25631027": {
+        "name": "cmfa-2.11.8-meta-x86_64-release.apk",
+        "size": 25631027,
+        "updated_at": "2025-07-19T15:54:29+00:00",
+        "synced_at": "2025-07-19 15:54:30.011143"
+      },
+      "output-metadata.json_2532": {
+        "name": "output-metadata.json",
+        "size": 2532,
+        "updated_at": "2025-07-19T15:54:31+00:00",
+        "synced_at": "2025-07-19 15:54:31.443384"
+      }
+    },
+    "213704544": {
+      "cmfa-2.11.9-meta-arm64-v8a-release.apk_24787099": {
+        "name": "cmfa-2.11.9-meta-arm64-v8a-release.apk",
+        "size": 24787099,
+        "updated_at": "2025-07-19T15:54:40+00:00",
+        "synced_at": "2025-07-19 15:54:40.382014"
+      },
+      "cmfa-2.11.9-meta-armeabi-v7a-release.apk_24938882": {
+        "name": "cmfa-2.11.9-meta-armeabi-v7a-release.apk",
+        "size": 24938882,
+        "updated_at": "2025-07-19T15:54:43+00:00",
+        "synced_at": "2025-07-19 15:54:43.294234"
+      },
+      "cmfa-2.11.9-meta-universal-release.apk_60495766": {
+        "name": "cmfa-2.11.9-meta-universal-release.apk",
+        "size": 60495766,
+        "updated_at": "2025-07-19T15:54:46+00:00",
+        "synced_at": "2025-07-19 15:54:46.179708"
+      },
+      "cmfa-2.11.9-meta-x86-release.apk_25854340": {
+        "name": "cmfa-2.11.9-meta-x86-release.apk",
+        "size": 25854340,
+        "updated_at": "2025-07-19T15:54:49+00:00",
+        "synced_at": "2025-07-19 15:54:49.176199"
+      },
+      "cmfa-2.11.9-meta-x86_64-release.apk_25510047": {
+        "name": "cmfa-2.11.9-meta-x86_64-release.apk",
+        "size": 25510047,
+        "updated_at": "2025-07-19T15:54:51+00:00",
+        "synced_at": "2025-07-19 15:54:51.534400"
+      },
+      "output-metadata.json_2532": {
+        "name": "output-metadata.json",
+        "size": 2532,
+        "updated_at": "2025-07-19T15:54:52+00:00",
+        "synced_at": "2025-07-19 15:54:52.998339"
+      }
+    },
+    "217761459": {
+      "cmfa-2.11.10-meta-arm64-v8a-release.apk_25025625": {
+        "name": "cmfa-2.11.10-meta-arm64-v8a-release.apk",
+        "size": 25025625,
+        "updated_at": "2025-07-19T15:55:01+00:00",
+        "synced_at": "2025-07-19 15:55:01.805709"
+      },
+      "cmfa-2.11.10-meta-armeabi-v7a-release.apk_25161234": {
+        "name": "cmfa-2.11.10-meta-armeabi-v7a-release.apk",
+        "size": 25161234,
+        "updated_at": "2025-07-19T15:55:04+00:00",
+        "synced_at": "2025-07-19 15:55:04.155760"
+      },
+      "cmfa-2.11.10-meta-universal-release.apk_61143988": {
+        "name": "cmfa-2.11.10-meta-universal-release.apk",
+        "size": 61143988,
+        "updated_at": "2025-07-19T15:55:07+00:00",
+        "synced_at": "2025-07-19 15:55:07.618218"
+      },
+      "cmfa-2.11.10-meta-x86-release.apk_26084991": {
+        "name": "cmfa-2.11.10-meta-x86-release.apk",
+        "size": 26084991,
+        "updated_at": "2025-07-19T15:55:09+00:00",
+        "synced_at": "2025-07-19 15:55:09.947839"
+      },
+      "cmfa-2.11.10-meta-x86_64-release.apk_25760887": {
+        "name": "cmfa-2.11.10-meta-x86_64-release.apk",
+        "size": 25760887,
+        "updated_at": "2025-07-19T15:55:12+00:00",
+        "synced_at": "2025-07-19 15:55:12.104912"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-07-19T15:55:13+00:00",
+        "synced_at": "2025-07-19 15:55:13.502441"
+      }
+    },
+    "218147879": {
+      "cmfa-2.11.11-meta-arm64-v8a-release.apk_25023595": {
+        "name": "cmfa-2.11.11-meta-arm64-v8a-release.apk",
+        "size": 25023595,
+        "updated_at": "2025-07-19T15:55:22+00:00",
+        "synced_at": "2025-07-19 15:55:22.624385"
+      },
+      "cmfa-2.11.11-meta-armeabi-v7a-release.apk_25155804": {
+        "name": "cmfa-2.11.11-meta-armeabi-v7a-release.apk",
+        "size": 25155804,
+        "updated_at": "2025-07-19T15:55:24+00:00",
+        "synced_at": "2025-07-19 15:55:24.982333"
+      },
+      "cmfa-2.11.11-meta-universal-release.apk_61139264": {
+        "name": "cmfa-2.11.11-meta-universal-release.apk",
+        "size": 61139264,
+        "updated_at": "2025-07-19T15:55:28+00:00",
+        "synced_at": "2025-07-19 15:55:28.663639"
+      },
+      "cmfa-2.11.11-meta-x86-release.apk_26080131": {
+        "name": "cmfa-2.11.11-meta-x86-release.apk",
+        "size": 26080131,
+        "updated_at": "2025-07-19T15:55:30+00:00",
+        "synced_at": "2025-07-19 15:55:31.045367"
+      },
+      "cmfa-2.11.11-meta-x86_64-release.apk_25755304": {
+        "name": "cmfa-2.11.11-meta-x86_64-release.apk",
+        "size": 25755304,
+        "updated_at": "2025-07-19T15:55:33+00:00",
+        "synced_at": "2025-07-19 15:55:33.536797"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-07-19T15:55:34+00:00",
+        "synced_at": "2025-07-19 15:55:34.946878"
+      }
+    },
+    "220231931": {
+      "cmfa-2.11.12-meta-arm64-v8a-release.apk_25050916": {
+        "name": "cmfa-2.11.12-meta-arm64-v8a-release.apk",
+        "size": 25050916,
+        "updated_at": "2025-07-19T15:55:44+00:00",
+        "synced_at": "2025-07-19 15:55:44.557539"
+      },
+      "cmfa-2.11.12-meta-armeabi-v7a-release.apk_25186543": {
+        "name": "cmfa-2.11.12-meta-armeabi-v7a-release.apk",
+        "size": 25186543,
+        "updated_at": "2025-07-19T15:55:46+00:00",
+        "synced_at": "2025-07-19 15:55:46.768235"
+      },
+      "cmfa-2.11.12-meta-universal-release.apk_61183861": {
+        "name": "cmfa-2.11.12-meta-universal-release.apk",
+        "size": 61183861,
+        "updated_at": "2025-07-19T15:55:49+00:00",
+        "synced_at": "2025-07-19 15:55:49.857699"
+      },
+      "cmfa-2.11.12-meta-x86-release.apk_26109650": {
+        "name": "cmfa-2.11.12-meta-x86-release.apk",
+        "size": 26109650,
+        "updated_at": "2025-07-19T15:55:51+00:00",
+        "synced_at": "2025-07-19 15:55:52.033856"
+      },
+      "cmfa-2.11.12-meta-x86_64-release.apk_25784121": {
+        "name": "cmfa-2.11.12-meta-x86_64-release.apk",
+        "size": 25784121,
+        "updated_at": "2025-07-19T15:55:54+00:00",
+        "synced_at": "2025-07-19 15:55:54.410600"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-07-19T15:55:55+00:00",
+        "synced_at": "2025-07-19 15:55:55.791857"
+      }
+    },
+    "222208472": {
+      "cmfa-2.11.13-meta-arm64-v8a-release.apk_25148044": {
+        "name": "cmfa-2.11.13-meta-arm64-v8a-release.apk",
+        "size": 25148044,
+        "updated_at": "2025-07-19T15:56:04+00:00",
+        "synced_at": "2025-07-19 15:56:04.741065"
+      },
+      "cmfa-2.11.13-meta-armeabi-v7a-release.apk_25283750": {
+        "name": "cmfa-2.11.13-meta-armeabi-v7a-release.apk",
+        "size": 25283750,
+        "updated_at": "2025-07-19T15:56:07+00:00",
+        "synced_at": "2025-07-19 15:56:07.139515"
+      },
+      "cmfa-2.11.13-meta-universal-release.apk_61328954": {
+        "name": "cmfa-2.11.13-meta-universal-release.apk",
+        "size": 61328954,
+        "updated_at": "2025-07-19T15:56:10+00:00",
+        "synced_at": "2025-07-19 15:56:10.442571"
+      },
+      "cmfa-2.11.13-meta-x86-release.apk_26208304": {
+        "name": "cmfa-2.11.13-meta-x86-release.apk",
+        "size": 26208304,
+        "updated_at": "2025-07-19T15:56:12+00:00",
+        "synced_at": "2025-07-19 15:56:12.728651"
+      },
+      "cmfa-2.11.13-meta-x86_64-release.apk_25881478": {
+        "name": "cmfa-2.11.13-meta-x86_64-release.apk",
+        "size": 25881478,
+        "updated_at": "2025-07-19T15:56:14+00:00",
+        "synced_at": "2025-07-19 15:56:14.909397"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-07-19T15:56:16+00:00",
+        "synced_at": "2025-07-19 15:56:16.292739"
+      }
+    },
+    "227671062": {
+      "cmfa-2.11.14-meta-arm64-v8a-release.apk_25384749": {
+        "name": "cmfa-2.11.14-meta-arm64-v8a-release.apk",
+        "size": 25384749,
+        "updated_at": "2025-07-19T15:56:25+00:00",
+        "synced_at": "2025-07-19 15:56:25.315988"
+      },
+      "cmfa-2.11.14-meta-armeabi-v7a-release.apk_25523759": {
+        "name": "cmfa-2.11.14-meta-armeabi-v7a-release.apk",
+        "size": 25523759,
+        "updated_at": "2025-07-19T15:56:27+00:00",
+        "synced_at": "2025-07-19 15:56:27.326790"
+      },
+      "cmfa-2.11.14-meta-universal-release.apk_61623554": {
+        "name": "cmfa-2.11.14-meta-universal-release.apk",
+        "size": 61623554,
+        "updated_at": "2025-07-19T15:56:30+00:00",
+        "synced_at": "2025-07-19 15:56:30.137567"
+      },
+      "cmfa-2.11.14-meta-x86-release.apk_26445934": {
+        "name": "cmfa-2.11.14-meta-x86-release.apk",
+        "size": 26445934,
+        "updated_at": "2025-07-19T15:56:32+00:00",
+        "synced_at": "2025-07-19 15:56:32.500006"
+      },
+      "cmfa-2.11.14-meta-x86_64-release.apk_26118616": {
+        "name": "cmfa-2.11.14-meta-x86_64-release.apk",
+        "size": 26118616,
+        "updated_at": "2025-07-19T15:56:34+00:00",
+        "synced_at": "2025-07-19 15:56:34.672525"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-07-19T15:56:35+00:00",
+        "synced_at": "2025-07-19 15:56:36.107488"
+      }
+    },
+    "228583702": {
+      "cmfa-2.11.14-alpha-arm64-v8a-release.apk_25306210": {
+        "name": "cmfa-2.11.14-alpha-arm64-v8a-release.apk",
+        "size": 25306210,
+        "updated_at": "2025-07-19T15:56:45+00:00",
+        "synced_at": "2025-07-19 15:56:45.102894"
+      },
+      "cmfa-2.11.14-alpha-armeabi-v7a-release.apk_25439364": {
+        "name": "cmfa-2.11.14-alpha-armeabi-v7a-release.apk",
+        "size": 25439364,
+        "updated_at": "2025-07-19T15:56:47+00:00",
+        "synced_at": "2025-07-19 15:56:47.284034"
+      },
+      "cmfa-2.11.14-alpha-universal-release.apk_60948414": {
+        "name": "cmfa-2.11.14-alpha-universal-release.apk",
+        "size": 60948414,
+        "updated_at": "2025-07-19T15:56:50+00:00",
+        "synced_at": "2025-07-19 15:56:50.616372"
+      },
+      "cmfa-2.11.14-alpha-x86-release.apk_26354600": {
+        "name": "cmfa-2.11.14-alpha-x86-release.apk",
+        "size": 26354600,
+        "updated_at": "2025-07-19T15:56:52+00:00",
+        "synced_at": "2025-07-19 15:56:52.826412"
+      },
+      "cmfa-2.11.14-alpha-x86_64-release.apk_26008548": {
+        "name": "cmfa-2.11.14-alpha-x86_64-release.apk",
+        "size": 26008548,
+        "updated_at": "2025-07-19T15:56:54+00:00",
+        "synced_at": "2025-07-19 15:56:55.098993"
+      },
+      "output-metadata.json_2574": {
+        "name": "output-metadata.json",
+        "size": 2574,
+        "updated_at": "2025-07-19T15:56:56+00:00",
+        "synced_at": "2025-07-19 15:56:56.530949"
+      }
+    }
+  },
+  "source_codes": {
+    "v2.8.0": {
+      "SourceCode_v2.8.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:01.926155"
+      },
+      "SourceCode_v2.8.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:03.317391"
+      }
+    },
+    "v2.8.2": {
+      "SourceCode_v2.8.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:21.385372"
+      },
+      "SourceCode_v2.8.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:22.892809"
+      }
+    },
+    "v2.8.3": {
+      "SourceCode_v2.8.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:40.894997"
+      },
+      "SourceCode_v2.8.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:42.375036"
+      }
+    },
+    "v2.8.4": {
+      "SourceCode_v2.8.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:47:59.924248"
+      },
+      "SourceCode_v2.8.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:01.367784"
+      }
+    },
+    "v2.8.5": {
+      "SourceCode_v2.8.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:18.910665"
+      },
+      "SourceCode_v2.8.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:20.344122"
+      }
+    },
+    "v2.8.6": {
+      "SourceCode_v2.8.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:38.234967"
+      },
+      "SourceCode_v2.8.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:39.766851"
+      }
+    },
+    "v2.8.7": {
+      "SourceCode_v2.8.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:58.310050"
+      },
+      "SourceCode_v2.8.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:48:59.803464"
+      }
+    },
+    "v2.8.8": {
+      "SourceCode_v2.8.8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:17.022470"
+      },
+      "SourceCode_v2.8.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:18.547562"
+      }
+    },
+    "v2.8.9": {
+      "SourceCode_v2.8.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:36.181237"
+      },
+      "SourceCode_v2.8.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:37.725018"
+      }
+    },
+    "v2.9.0": {
+      "SourceCode_v2.9.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:54.923904"
+      },
+      "SourceCode_v2.9.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:49:56.564007"
+      }
+    },
+    "v2.10.0": {
+      "SourceCode_v2.10.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:15.120557"
+      },
+      "SourceCode_v2.10.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:16.591969"
+      }
+    },
+    "v2.10.1": {
+      "SourceCode_v2.10.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:34.762334"
+      },
+      "SourceCode_v2.10.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:36.270324"
+      }
+    },
+    "v2.10.2": {
+      "SourceCode_v2.10.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:55.234578"
+      },
+      "SourceCode_v2.10.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:50:56.754895"
+      }
+    },
+    "v2.10.3": {
+      "SourceCode_v2.10.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:15.526101"
+      },
+      "SourceCode_v2.10.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:17.021363"
+      }
+    },
+    "v2.10.4": {
+      "SourceCode_v2.10.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:35.050488"
+      },
+      "SourceCode_v2.10.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:36.467536"
+      }
+    },
+    "v2.11.0": {
+      "SourceCode_v2.11.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:55.091099"
+      },
+      "SourceCode_v2.11.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:51:56.588927"
+      }
+    },
+    "v2.11.1": {
+      "SourceCode_v2.11.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:15.182871"
+      },
+      "SourceCode_v2.11.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:16.575085"
+      }
+    },
+    "v2.11.2": {
+      "SourceCode_v2.11.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:34.138069"
+      },
+      "SourceCode_v2.11.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:35.645120"
+      }
+    },
+    "v2.11.4": {
+      "SourceCode_v2.11.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:54.322646"
+      },
+      "SourceCode_v2.11.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:52:55.866373"
+      }
+    },
+    "v2.11.5": {
+      "SourceCode_v2.11.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:14.522480"
+      },
+      "SourceCode_v2.11.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:16.003030"
+      }
+    },
+    "v2.11.6": {
+      "SourceCode_v2.11.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:35.019617"
+      },
+      "SourceCode_v2.11.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:36.535324"
+      }
+    },
+    "v2.11.7": {
+      "SourceCode_v2.11.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:55.215588"
+      },
+      "SourceCode_v2.11.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:53:56.676759"
+      }
+    },
+    "v2.11.8": {
+      "SourceCode_v2.11.8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:15.391642"
+      },
+      "SourceCode_v2.11.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:16.812063"
+      }
+    },
+    "v2.11.9": {
+      "SourceCode_v2.11.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:36.560952"
+      },
+      "SourceCode_v2.11.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:38.009466"
+      }
+    },
+    "2.11.10": {
+      "SourceCode_2.11.10.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:58.007444"
+      },
+      "SourceCode_2.11.10.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:54:59.464338"
+      }
+    },
+    "v2.11.11": {
+      "SourceCode_v2.11.11.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:55:18.693425"
+      },
+      "SourceCode_v2.11.11.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:55:20.142417"
+      }
+    },
+    "v2.11.12": {
+      "SourceCode_v2.11.12.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:55:40.125661"
+      },
+      "SourceCode_v2.11.12.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:55:41.506113"
+      }
+    },
+    "v2.11.13": {
+      "SourceCode_v2.11.13.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:01.098364"
+      },
+      "SourceCode_v2.11.13.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:02.572008"
+      }
+    },
+    "v2.11.14": {
+      "SourceCode_v2.11.14.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:21.482794"
+      },
+      "SourceCode_v2.11.14.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:22.957505"
+      }
+    },
+    "Prerelease-alpha": {
+      "SourceCode_Prerelease-alpha.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:41.195803"
+      },
+      "SourceCode_Prerelease-alpha.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 15:56:42.616262"
+      }
+    }
+  }
+}
